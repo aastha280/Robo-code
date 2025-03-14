@@ -13,8 +13,8 @@ Usage:
 
 Controls:
 Key - Action
-w - Move forward
-s - Move backward
-a - Turn left
-d - Turn right
-q - Quit
+- w - Move forward
+- s - Move backward
+- a - Turn left
+- d - Turn right
+- q - Quit
